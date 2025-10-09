@@ -1,6 +1,6 @@
-# Project Title (This is a template README.md file that you can adapt to your project)
+# Assessing how Attending a Charter School impacts Education
 
-> A brief description of what the project does and its purpose.
+> This project aims to evaluate how the status of attendance at a charter school and different socio-economic features impact standardize testing scores for students in high school.
 
 ---
 
