@@ -30,7 +30,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 
 - **Source:** [Link to the data source(s)](https://nces.ed.gov/programs/digest/d21/tables/dt21_226.60.asp) 
 - **Description:** The dataset contains ACT scores for 2017 and 2021 for each state
-- **License:** (if applicable)
+- **License:** There are none for this project.
 
 ---
 
